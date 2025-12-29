@@ -1,0 +1,93 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",SINEMA HD
+http://65.108.239.207/sinema/index.m3u8
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",SINEMA2 HD
+http://65.108.239.207/sinema2/index.m3u8
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",SINEMA1001 HD
+http://65.108.239.207/sinema1001/index.m3u8
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",SINEMA1002 HD
+http://65.108.239.207/sinema1002/index.m3u8
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",SINEMA AILE
+http://65.108.239.207/sinemaaile/index.m3u8
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",SINEMA AKSIYON
+http://65.108.239.207/sinemaaksiyon/index.m3u8
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",SINEMA AKSIYON2
+http://65.108.239.207/sinemaaksiyon2/index.m3u8
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",SINEMA KOMEDI
+http://65.108.239.207/sinemakomedi/index.m3u8
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",SINEMA YERLI
+http://65.108.239.207/sinemayerli/index.m3u8
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",SINEMA YERLI2
+http://65.108.239.207/sinemayerli2/index.m3u8
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",BEINMOVIES FAMILY
+http://65.108.239.207/bsfamily/index.m3u8
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",BEINMOVIES ACTION1
+http://65.108.239.207/bsaction1/index.m3u8
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",BEINMOVIES BOX1
+http://65.108.239.207/box1/index.m3u8
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",BEINMOVIES BOX2
+http://65.108.239.207/box2/index.m3u8
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",BEINMOVIES BOX3
+http://65.108.239.207/box3/index.m3u8
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",BEINMOVIES PREMIER1
+http://65.108.239.207/bspremier1/index.m3u8
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",BEINMOVIES STARTS
+http://65.108.239.207/bsstars/index.m3u8
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",BEINMOVIES TURK
+http://65.108.239.207/bsturk/index.m3u8
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",MOVIESMART TURK
+http://65.108.239.207/mvturk/index.m3u8
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",AHABER HD
+http://65.108.239.207/ahaber/index.m3u8
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",ATV HD
+http://65.108.239.207/atv/index.m3u8
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",BBC HD
+http://65.108.239.207/bbc/index.m3u8
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",HISTORY
+http://65.108.239.207/history/index.m3u8
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",VIASAT HISTORY HD
+http://65.108.239.207/viasathistory/index.m3u8
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",DISCOVERY
+http://65.108.239.207/discovery/index.m3u8
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",DISCOVERY SCIENCE
+http://65.108.239.207/discs/index.m3u8
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",DOCUBOX
+http://65.108.239.207/docubox/index.m3u8
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",TARIHTV
+http://65.108.239.207/tarihtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",LOVENATURE
+http://65.108.239.207/lovenature/index.m3u8
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",TABI1
+http://65.108.239.207/tabi1/index.m3u8
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",TABI2
+http://65.108.239.207/tabi2/index.m3u8
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",TABI3
+http://65.108.239.207/tabi3/index.m3u8
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",TABI4
+http://65.108.239.207/tabi4/index.m3u8
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",TABI5
+http://65.108.239.207/tabi5/index.m3u8
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",TABI6
+http://65.108.239.207/tabi6/index.m3u8
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",SMARTSPOR1
+http://65.108.239.207/smart1/index.m3u8
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",SMARTSPOR2
+http://65.108.239.207/smart2/index.m3u8
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",TV8BUCUK
+http://65.108.239.207/tv85/index.m3u8
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",BEINSPORT4
+http://65.108.239.207/bs4/index.m3u8
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",BEIN MAX1
+http://65.108.239.207/bm1/index.m3u8
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",BEIN MAX2
+http://65.108.239.207/bm2/index.m3u8
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",T1 HD
+http://65.108.239.207/t1/index.m3u8
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",T2 HD
+http://65.108.239.207/t2/index.m3u8
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",T3 HD
+http://65.108.239.207/t3/index.m3u8
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",T4 HD
+http://65.108.239.207/t4/index.m3u8
+#EXTINF:-1 tvg-logo="https://argontv.nl/api/v1/channel-logo?k=U2FsdGVkX19wjGPzY1yqtuBDZulsc%2FJvxYnUtHymUqdiDQ5LHwyF%2F7AET6mwREvs" group-title="sinema",ASPOR
+http://65.108.239.207/aspor/index.m3u8
